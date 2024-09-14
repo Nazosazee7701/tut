@@ -1,0 +1,13 @@
+# Ignore Unreal Engine auto-generated files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.sln
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore specific telemetry data
+Saved/Telemetry/
